@@ -31,7 +31,7 @@
         padding: 16px;
         font-size: 27px;
         font-family: "DancingScript";
-        src: url('DancingScript.TTF');
+        src: url('./DancingScript.TTF');
     }
 
     .item {
@@ -72,21 +72,21 @@
         text-align: center;
         padding-top: 2%;
         font-family: "DancingScript";
-        src: url('DancingScript.TTF');
+        src: url('./DancingScript.TTF');
         color: #d4423e;
     }
 
     h2 {
         margin-top: 9%;
         font-family: "DancingScript";
-        src: url('DancingScript.TTF');
+        src: url('./DancingScript.TTF');
         color: #d4423e;
     }
 
     h3 {
         color: #d4423e;
         font-family: "DancingScript";
-        src: url('DancingScript.TTF');
+        src: url('./DancingScript.TTF');
     }
 
     p {
@@ -165,7 +165,7 @@
 
     @font-face {
         font-family: "DancingScript";
-        src: url('DancingScript.TTF');
+        src: url('./DancingScript.TTF');
     }
 
 }
@@ -203,7 +203,7 @@
         padding: 16px;
         font-size: 27px;
         font-family: "DancingScript";
-        src: url('DancingScript.TTF');
+        src: url('./DancingScript.TTF');
     }
 
     .item {
@@ -243,21 +243,21 @@
         text-align: center;
         padding-top: 2%;
         font-family: "DancingScript";
-        src: url('DancingScript.TTF');
+        src: url('./DancingScript.TTF');
         color: #d4423e;
     }
 
     h2 {
         margin-top: 9%;
         font-family: "DancingScript";
-        src: url('DancingScript.TTF');
+        src: url('./DancingScript.TTF');
         color: #d4423e;
     }
 
     h3 {
         color: #d4423e;
         font-family: "DancingScript";
-        src: url('DancingScript.TTF');
+        src: url('./DancingScript.TTF');
     }
 
     p {
@@ -336,7 +336,7 @@
 
     @font-face {
         font-family: "DancingScript";
-        src: url('DancingScript.TTF');
+        src: url('./DancingScript.TTF');
     }
 }
 
